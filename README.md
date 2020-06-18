@@ -28,7 +28,7 @@ This is my first table.
 
 This is my second table.
 
-![trigger](https://user-images.githubusercontent.com/44475035/84967341-65013500-b11c-11ea-8118-27df6f83a0ba.PNG)
+![trigger_yeni](https://user-images.githubusercontent.com/44475035/84968373-fd001e00-b11e-11ea-8188-f149fbbdd464.PNG)
 
 I used a trigger to calculate the npm score.
 
