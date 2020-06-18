@@ -36,6 +36,8 @@ I used a trigger to calculate the npm score.
 
 If you want to use my react project with this project, you should edit the REST api layer as in the photo.
 
+You can access my react project -> https://github.com/onurkslr/survey-react
+
 
 
 
