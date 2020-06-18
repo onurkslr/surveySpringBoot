@@ -32,6 +32,10 @@ This is my second table.
 
 I used a trigger to calculate the npm score.
 
+![rest-react](https://user-images.githubusercontent.com/44475035/84967703-48193180-b11d-11ea-8faa-cd840ca82652.PNG)
+
+If you want to use my react project with this project, you should edit the REST api layer as in the photo.
+
 
 
 
